@@ -38,5 +38,39 @@
     "TOOLTIP": {
       "MAIN": "Panoorin ang mga panimulang video"
     }
+  },
+
+  "CROPS": {
+    "Rice": "Palay",
+    "Corn": "Mais",
+    "Corn_Dry": "Mais Tag-tuyo",
+    "Corn_Wet": "Mais Tag-ulan",
+    "Coffee": "Kape",
+    "Coffee_Arabica": "Kapeng Arabica",
+    "Coffee_ Robusta": "Kapeng Robusta",
+    "Cacao": "Kakaw",
+    "Banana": "Saging",
+    "Coconut": "Niyog"
+  },
+
+  "CROP_PRODUCTION_AREA": {
+    "TITLE": "Pagtatanim at Pag-aano"
+  },
+
+  "NDVI_MAPS": {
+    "TITLE": "Normalized Difference Vegetation Index (NDVI)",
+    "STARTING_DATE": "Petsa kung kailan nagsimula/magsisimula",
+    "SCAN_RANGE": "Saklaw na mga araw"
+  },
+
+  "RAINFALL_MAPS": {
+    "TITLE": "Mapa ng pag-ulan",
+    "SCAN_DATE": "Petsa na titingnan"
+  },
+
+  "SUITABILITY_MAPS": {
+    "TITLE": "Suitability Maps",
+    "DESCRIPTION": "Pinapakita kung ano ang mainam itanim sa inyong lugar na maaaring makakuha ng pinakamaraming ani."
   }
+
 }

@@ -38,5 +38,38 @@
     "TOOLTIP": {
       "MAIN": "Watch Introductory Videos"
     }
+  },
+
+  "CROPS": {
+    "Rice": "Rice",
+    "Corn": "Corn",
+    "Corn_Dry": "Corn Dry",
+    "Corn_Wet": "Corn Wet",
+    "Coffee": "Coffee",
+    "Coffee_Arabica": "Coffee Arabica",
+    "Coffee_ Robusta": "Coffee Robusta",
+    "Cacao": "Cacao",
+    "Banana": "Banana",
+    "Coconut": "Coconut"
+  },
+
+  "CROP_PRODUCTION_AREA": {
+    "TITLE": "Crop Production Area"
+  },
+
+  "NDVI_MAPS": {
+    "TITLE": "Normalized Difference Vegetation Index (NDVI)",
+    "STARTING_DATE": "Starting Date",
+    "SCAN_RANGE": "Scan Range (In Days)"
+  },
+
+  "RAINFALL_MAPS": {
+    "TITLE": "Rainfall Map",
+    "SCAN_DATE": "Scan Date"
+  },
+
+  "SUITABILITY_MAPS": {
+    "TITLE": "Suitability Maps",
+    "DESCRIPTION": "Shows what crops are best to plant in a specific area to attain maximum yield."
   }
 }
